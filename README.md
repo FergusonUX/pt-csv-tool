@@ -1,4 +1,4 @@
-# pt-csv-tool
+# CSV Tool
 Converting SM9 Feedback export files into something better.
 
 This document serves as a guide to converting the IT FOL report from it’s current format into the new format.  
