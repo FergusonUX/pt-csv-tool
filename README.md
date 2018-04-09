@@ -25,7 +25,7 @@ Next, enter: `npm install`
 This will install the dependencies for the program to run.  
 
 ## Running the Program
-### 1. Save your spreadsheet to the program folder
-### 2. Execute
+### 1. Place a spreadsheet to be converted in the script folder
+### 2. Run script
 At the command prompt, enter: `node converter -i YOURFILENAME`
 **Note**: Do not include the extension in the filename.
