@@ -4,8 +4,8 @@ Converting SM9 Feedback export files into something better.
 This document serves as a guide to converting the IT FOL report from it’s current (2.22.18) format into the new format.  
 
 ## Requirements
-Windows: Windows (any), Command Prompt
-Mac: OSX (any), Terminal
+**Windows**: Command Prompt
+**Mac**: Terminal
 
 ## Installation
 ### 1. Install Node
