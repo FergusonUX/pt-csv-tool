@@ -1,0 +1,16 @@
+{
+  "name": "@ferguson-enterprises/product-csv-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spreadsheet.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "xlsx": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
